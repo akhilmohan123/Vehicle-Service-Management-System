@@ -57,7 +57,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone or Download
 
 # Clone the repository
-git clone https://github.com/yourusername/repair-management-system.git
+git clone https://github.com/akhilmohan123/Vehicle-Service-Management-System.git
 cd repair-management-system
 
 # Or download and extract the ZIP file
@@ -104,3 +104,21 @@ npm install
 
 # Start frontend server
 npm start
+
+
+--------------------------------------------------
+# Testing
+
+cd repair-management-system
+cd backend
+cd api-backend
+# Activate the virtual environment
+cd venv/Scripts
+./activate
+
+# Move back to backend folder
+cd ..
+cd ..
+cd backend
+
+python manage.py test
