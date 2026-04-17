@@ -38,6 +38,11 @@ A **full-stack vehicle repair management system** built with Django REST Framewo
 | **Database** | SQLite (Development) / PostgreSQL (Production) | - |
 | **Testing** | Django Test Case / React Testing Library | - |
 
+
+## Demo Video 
+
+/repair-management-system/demo-video
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
